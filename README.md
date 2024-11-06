@@ -1,5 +1,3 @@
-Here's a sample `README.md` file for your project:
-
 ---
 
 # Dardos Tech: Blog Application with Role-Based Access Control
